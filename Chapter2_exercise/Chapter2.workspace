@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Chapter2" Database="" Version="10.0.0">
+  <Project Name="Prob_1" Path="Prob_1/Prob_1.project" Active="No"/>
+  <Project Name="Prob_2" Path="Prob_2/Prob_2.project" Active="No"/>
+  <Project Name="Prob_3" Path="Prob_3/Prob_3.project" Active="No"/>
+  <Project Name="Prob_4" Path="Prob_4/Prob_4.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Prob_1" ConfigName="Debug"/>
+      <Project Name="Prob_2" ConfigName="Debug"/>
+      <Project Name="Prob_3" ConfigName="Debug"/>
+      <Project Name="Prob_4" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Prob_1" ConfigName="Release"/>
+      <Project Name="Prob_2" ConfigName="Release"/>
+      <Project Name="Prob_3" ConfigName="Release"/>
+      <Project Name="Prob_4" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
